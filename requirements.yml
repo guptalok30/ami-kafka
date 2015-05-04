@@ -1,0 +1,11 @@
+- src: git+git@github.com:PeopleNet/ansible-logstash.git
+  version: 1.0.8
+  name: logstash
+
+- src: git+git@github.com:PeopleNet/ansible-kafka.git
+  version: 0.0.1
+  name: kafka
+
+- src: git+git@github.com:PeopleNet/ansible-kafka-server.git
+  version: 0.0.1
+  name: kafka-server
