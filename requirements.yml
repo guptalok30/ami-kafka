@@ -3,4 +3,5 @@
   name: logstash
 
 - src: git+git@github.com:PeopleNet/ansible-kafka.git
+  version: 1.0.0
   name: kafka
